@@ -1,10 +1,7 @@
 # MahashwetaB_RISCV_SOC_India_Tapeout_VSD
 RTL2GDS Flow – My Submissions  This repository documents my journey of taking digital designs from RTL (Register Transfer Level) all the way to GDSII layout using the open-source VLSI toolchain. It is structured as a week-by-week set of submissions, experiments, and progress logs, inspired by the open-source silicon community’s learning practices.
-This is a great starting point for your README. To make it professional, engaging, and structured like the example, I'll provide you with the full Markdown text.
 
-You should copy and paste the entire block below into your `README.md` file and replace the placeholder content (e.g., `<Week 1 Task Description>`) with your actual progress.
 
------
 
 ```markdown
 # 🖥️ RISC-V Reference SoC Tapeout Program VSD
@@ -31,28 +28,13 @@ This repository documents my **week-by-week progress** with tasks, key learnings
 
 ***
 
-## 📅 Week 1 — <Week 1 Topic Title, e.g., Combinational Logic Design>
-
-| Task | Description | Status |
-| :--- | :--- | :--- |
-| **Task 1** | <Week 1 Task 1 Description> | ⏳ **In Progress** |
-| **Task 2** | <Week 1 Task 2 Description> | ❌ **Pending** |
-
-### 🌟 Key Learnings from Week 1
-
-* <Key learning point 1>
-* <Key learning point 2>
-
-***
 
 ## 📈 Weekly Progress Tracker
 
 | Week | Topic | Link to Folder | Status |
 | :---: | :--- | :---: | :---: |
 | **0** | **Setup & Tools** | [`./week0`](./week0) | **Completed** |
-| **1** | <Topic Title> | [`./week1`](./week1) | **In Progress** |
-| **2** | <Topic Title> | [`./week2`](./week2) | **Pending** |
-| **3** | <Topic Title> | [`./week3`](./week3) | **Pending** |
+
 
 ***
 
@@ -66,6 +48,6 @@ I also acknowledge the support of **RISC-V International**, **India Semiconducto
 
 ## 🔗 Program Links
 
-* [VSD Official Website](<Insert VSD Program Link Here>)
+* [VSD Official Website](<https://vsdiat.vlsisystemdesign.com/>)
 * [RISC-V International](https://riscv.org/)
 ```
